@@ -1,0 +1,131 @@
+C:\Users\Admin\source\repos\BTL_CSLT2_Nhom8\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BTL_CSLT2_Nhom8\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmKhachHang.resources
+C:\Users\Admin\source\repos\BTL_CSLT2_Nhom8\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmMain.resources
+C:\Users\Admin\source\repos\BTL_CSLT2_Nhom8\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\Admin\source\repos\BTL_CSLT2_Nhom8\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\BTL_CSLT2_Nhom8\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BTL_CSLT2_Nhom8\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\Admin\source\repos\BTL_CSLT2_Nhom8\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\Admin\source\repos\BTL_CSLT2_Nhom8\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\Admin\source\repos\BTL_CSLT2_Nhom8\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\Admin\source\repos\BTL_CSLT2_Nhom8\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+C:\Users\Admin\source\repos\BTL_CSLT2_Nhom8\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmBoPhan.resources
+C:\Users\Admin\source\repos\BTL_CSLT2_Nhom8\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmNhanVien.resources
+C:\Users\Admin\source\repos\BTL_CSLT2_Nhom8\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmTKNhanVien.resources
+C:\Users\Admin\source\repos\BTL_CSLT2_Nhom8\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmTKKhachHang.resources
+C:\Users\Admin\source\repos\BTL_CSLT2_Nhom8\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmTimPhong.resources
+C:\Users\Duc Anh\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\Duc Anh\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\Duc Anh\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\Duc Anh\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\Duc Anh\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmBoPhan.resources
+C:\Users\Duc Anh\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmdangki.resources
+C:\Users\Duc Anh\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmdangnhap.resources
+C:\Users\Duc Anh\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmKhachHang.resources
+C:\Users\Duc Anh\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmMain.resources
+C:\Users\Duc Anh\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmNhanVien.resources
+C:\Users\Duc Anh\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmquenmatkhau.resources
+C:\Users\Duc Anh\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmTimPhong.resources
+C:\Users\Duc Anh\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmTKKhachHang.resources
+C:\Users\Duc Anh\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmTKNhanVien.resources
+C:\Users\Duc Anh\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\Duc Anh\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\Duc Anh\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\Duc Anh\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\Duc Anh\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+C:\Users\Duc Anh\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmdichvu.resources
+C:\Users\Duc Anh\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.ResolveComReference.cache
+C:\Users\Duc Anh\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmThanhtoandv.resources
+C:\Users\Duc Anh\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmThanhToanPhong.resources
+C:\Users\Duc Anh\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmdoanhthu.resources
+E:\TL\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+E:\TL\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.SuggestedBindingRedirects.cache
+E:\TL\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.ResolveComReference.cache
+E:\TL\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmBoPhan.resources
+E:\TL\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmdangki.resources
+E:\TL\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmdangnhap.resources
+E:\TL\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmdichvu.resources
+E:\TL\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmdoanhthu.resources
+E:\TL\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmKhachHang.resources
+E:\TL\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmMain.resources
+E:\TL\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmNhanVien.resources
+E:\TL\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmquenmatkhau.resources
+E:\TL\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmThanhtoandv.resources
+E:\TL\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmThanhToanPhong.resources
+E:\TL\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmTimPhong.resources
+E:\TL\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmTKKhachHang.resources
+E:\TL\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmTKNhanVien.resources
+E:\TL\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+E:\TL\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+E:\TL\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+E:\TL\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+E:\TL\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+E:\TL\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+E:\TL\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+E:\TL\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+E:\TL\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmdaynha.resources
+E:\TL\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmguong.resources
+E:\TL\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmLoaiPhong.resources
+E:\TL\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmPhong.resources
+E:\TL\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmtimkiem.resources
+E:\TL\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmLienhe.resources
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan-20220413T005701Z-001\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan-20220413T005701Z-001\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan-20220413T005701Z-001\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan-20220413T005701Z-001\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan-20220413T005701Z-001\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.ResolveComReference.cache
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan-20220413T005701Z-001\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmBoPhan.resources
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan-20220413T005701Z-001\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmdangki.resources
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan-20220413T005701Z-001\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmdangnhap.resources
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan-20220413T005701Z-001\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmdaynha.resources
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan-20220413T005701Z-001\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmdichvu.resources
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan-20220413T005701Z-001\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmdoanhthu.resources
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan-20220413T005701Z-001\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmguong.resources
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan-20220413T005701Z-001\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmKhachHang.resources
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan-20220413T005701Z-001\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmLienhe.resources
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan-20220413T005701Z-001\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmLoaiPhong.resources
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan-20220413T005701Z-001\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmMain.resources
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan-20220413T005701Z-001\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmNhanVien.resources
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan-20220413T005701Z-001\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmPhong.resources
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan-20220413T005701Z-001\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmquenmatkhau.resources
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan-20220413T005701Z-001\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmThanhtoandv.resources
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan-20220413T005701Z-001\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmThanhToanPhong.resources
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan-20220413T005701Z-001\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmtimkiem.resources
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan-20220413T005701Z-001\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmTimPhong.resources
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan-20220413T005701Z-001\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmTKKhachHang.resources
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan-20220413T005701Z-001\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmTKNhanVien.resources
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan-20220413T005701Z-001\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan-20220413T005701Z-001\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan-20220413T005701Z-001\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan-20220413T005701Z-001\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan-20220413T005701Z-001\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.ResolveComReference.cache
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmBoPhan.resources
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmdangki.resources
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmdangnhap.resources
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmdaynha.resources
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmdichvu.resources
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmdoanhthu.resources
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmguong.resources
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmKhachHang.resources
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmLienhe.resources
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmLoaiPhong.resources
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmMain.resources
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmNhanVien.resources
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmPhong.resources
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmquenmatkhau.resources
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmThanhtoandv.resources
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmThanhToanPhong.resources
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmtimkiem.resources
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmTimPhong.resources
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmTKKhachHang.resources
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Forms.frmTKNhanVien.resources
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\Microsoft VS Code\phần 1\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
